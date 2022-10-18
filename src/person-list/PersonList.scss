@@ -1,0 +1,13 @@
+.list-item {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.sub-list-item {
+	display: flex;
+	justify-content: space-between !important;
+	color: #ccc;
+	padding-left: 32px !important;
+	padding-right: 40px !important;
+}

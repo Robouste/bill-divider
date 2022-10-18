@@ -1,0 +1,447 @@
+[
+	{
+		"name": "Gillou",
+		"details": [
+			{
+				"name": "Jambon ibérique",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Scampis ail noir",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "2x Croquettes de boeuf",
+				"amount": 2.5,
+				"share": 12.5
+			},
+			{
+				"name": "Ventrêche de Porc",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Coppa de Boeuf",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "3x Rib eye Sashi",
+				"amount": 41,
+				"share": 33.333333333333336
+			},
+			{
+				"name": "6x Supplément sauce ou frites",
+				"amount": 2,
+				"share": 16.666666666666668
+			},
+			{
+				"name": "Mojito",
+				"amount": 9,
+				"share": 100
+			},
+			{
+				"name": "Eau",
+				"amount": 1.25,
+				"share": 12.5
+			}
+		]
+	},
+	{
+		"name": "Py",
+		"details": [
+			{
+				"name": "Jambon ibérique",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Scampis ail noir",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "2x Croquettes de boeuf",
+				"amount": 2.5,
+				"share": 12.5
+			},
+			{
+				"name": "Ventrêche de Porc",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Coppa de Boeuf",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Rib eye Rubia",
+				"amount": 49,
+				"share": 100
+			},
+			{
+				"name": "3x Apéro maison",
+				"amount": 8,
+				"share": 33.333333333333336
+			},
+			{
+				"name": "2x Coca",
+				"amount": 3,
+				"share": 50
+			},
+			{
+				"name": "Eau",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Vin",
+				"amount": 5,
+				"share": 16.666666666666668
+			}
+		]
+	},
+	{
+		"name": "Nibor",
+		"details": [
+			{
+				"name": "Jambon ibérique",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Scampis ail noir",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "2x Croquettes de boeuf",
+				"amount": 2.5,
+				"share": 12.5
+			},
+			{
+				"name": "Ventrêche de Porc",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Coppa de Boeuf",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "3x Rib eye Sashi",
+				"amount": 41,
+				"share": 33.333333333333336
+			},
+			{
+				"name": "6x Supplément sauce ou frites",
+				"amount": 2,
+				"share": 16.666666666666668
+			},
+			{
+				"name": "2x Coca",
+				"amount": 3,
+				"share": 50
+			},
+			{
+				"name": "1x Coca",
+				"amount": 3,
+				"share": 100
+			},
+			{
+				"name": "Eau",
+				"amount": 1.25,
+				"share": 12.5
+			}
+		]
+	},
+	{
+		"name": "Tetelle",
+		"details": [
+			{
+				"name": "Jambon ibérique",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Scampis ail noir",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "2x Croquettes de boeuf",
+				"amount": 2.5,
+				"share": 12.5
+			},
+			{
+				"name": "Ventrêche de Porc",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Coppa de Boeuf",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Entrecôte Salers",
+				"amount": 37,
+				"share": 50
+			},
+			{
+				"name": "6x Supplément sauce ou frites",
+				"amount": 2,
+				"share": 16.666666666666668
+			},
+			{
+				"name": "3x Irish Coffee",
+				"amount": 10,
+				"share": 33.333333333333336
+			},
+			{
+				"name": "3x Apéro maison",
+				"amount": 8,
+				"share": 33.333333333333336
+			},
+			{
+				"name": "Eau",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Vin",
+				"amount": 5,
+				"share": 16.666666666666668
+			}
+		]
+	},
+	{
+		"name": "Tritrid",
+		"details": [
+			{
+				"name": "Jambon ibérique",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Scampis ail noir",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "2x Croquettes de boeuf",
+				"amount": 2.5,
+				"share": 12.5
+			},
+			{
+				"name": "Ventrêche de Porc",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Coppa de Boeuf",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Entrecôte Salers",
+				"amount": 37,
+				"share": 50
+			},
+			{
+				"name": "6x Supplément sauce ou frites",
+				"amount": 2,
+				"share": 16.666666666666668
+			},
+			{
+				"name": "3x Irish Coffee",
+				"amount": 10,
+				"share": 33.333333333333336
+			},
+			{
+				"name": "3x Apéro maison",
+				"amount": 8,
+				"share": 33.333333333333336
+			},
+			{
+				"name": "Eau",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Vin",
+				"amount": 5,
+				"share": 16.666666666666668
+			}
+		]
+	},
+	{
+		"name": "Brix",
+		"details": [
+			{
+				"name": "Jambon ibérique",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Scampis ail noir",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "2x Croquettes de boeuf",
+				"amount": 2.5,
+				"share": 12.5
+			},
+			{
+				"name": "Ventrêche de Porc",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Coppa de Boeuf",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "3x Rib eye Sashi",
+				"amount": 41,
+				"share": 33.333333333333336
+			},
+			{
+				"name": "6x Supplément sauce ou frites",
+				"amount": 2,
+				"share": 16.666666666666668
+			},
+			{
+				"name": "3x Irish Coffee",
+				"amount": 10,
+				"share": 33.333333333333336
+			},
+			{
+				"name": "2x Orval Millésime",
+				"amount": 6,
+				"share": 50
+			},
+			{
+				"name": "Eau",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Vin",
+				"amount": 5,
+				"share": 16.666666666666668
+			}
+		]
+	},
+	{
+		"name": "Mom's",
+		"details": [
+			{
+				"name": "Jambon ibérique",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Scampis ail noir",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "2x Croquettes de boeuf",
+				"amount": 2.5,
+				"share": 12.5
+			},
+			{
+				"name": "Ventrêche de Porc",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Coppa de Boeuf",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Bavette Wagyu",
+				"amount": 31,
+				"share": 100
+			},
+			{
+				"name": "6x Supplément sauce ou frites",
+				"amount": 2,
+				"share": 16.666666666666668
+			},
+			{
+				"name": "Apéro maison NA",
+				"amount": 6,
+				"share": 100
+			},
+			{
+				"name": "Eau",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Vin",
+				"amount": 5,
+				"share": 16.666666666666668
+			}
+		]
+	},
+	{
+		"name": "El padre",
+		"details": [
+			{
+				"name": "Jambon ibérique",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Scampis ail noir",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "2x Croquettes de boeuf",
+				"amount": 2.5,
+				"share": 12.5
+			},
+			{
+				"name": "Ventrêche de Porc",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Coppa de Boeuf",
+				"amount": 1.875,
+				"share": 12.5
+			},
+			{
+				"name": "Tagliata Steak",
+				"amount": 29,
+				"share": 100
+			},
+			{
+				"name": "2x Orval Millésime",
+				"amount": 6,
+				"share": 50
+			},
+			{
+				"name": "Eau",
+				"amount": 1.25,
+				"share": 12.5
+			},
+			{
+				"name": "Vin",
+				"amount": 5,
+				"share": 16.666666666666668
+			}
+		]
+	}
+]
