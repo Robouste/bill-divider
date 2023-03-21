@@ -21,10 +21,7 @@ function App() {
 		new Person("Py"),
 		new Person("Nibor"),
 		new Person("Tetelle"),
-		new Person("Tritrid"),
 		new Person("Brix"),
-		new Person("Mom's"),
-		new Person("El padre"),
 	]);
 
 	const [dialogOpened, setDialogOpened] = useState(false);
@@ -40,10 +37,6 @@ function App() {
 		if (p) {
 			setPersons(p);
 		}
-	};
-
-	const handleButtonClick = () => {
-		console.log(persons);
 	};
 
 	useEffect(() => {
@@ -64,7 +57,6 @@ function App() {
 						</CardActions>
 					</Card>
 				</div>
-				<Button onClick={handleButtonClick}>Test</Button>
 				<EditDialog persons={persons} open={dialogOpened} onClose={handleClose}></EditDialog>
 			</CssBaseline>
 		</ThemeProvider>
